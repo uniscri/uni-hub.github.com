@@ -1,2 +1,15 @@
-# uni-hub.github.com
-this is a side project of unblocked games that I imported 
+
+
+
+# Unblocked Websites
+
+Unihub is a side project i made that has games, proxies, tools, and more
+
+
+
+## Authors
+
+- [@uniscri](https://github.com/uniscri)
+
+
+
